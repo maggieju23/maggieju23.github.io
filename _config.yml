@@ -2,6 +2,5 @@ title: Maggie Ju
 remote_theme: jekyll-theme-lightning/lightning
 plugins:
   - jekyll-seo-tag
-  # - jekyll-spaceship
   - jekyll-feed
   - jekyll-remote-theme
