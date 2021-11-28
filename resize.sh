@@ -1,1 +1,1 @@
-find ./assets/images/artwork -not -path "*/static/*" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '300>' -path assets/images/artwork/thumbs -format jpg
+find ./assets/images/artwork -not -path "*/static/*" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' -o -name '*.PNG' \) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '300>' -path assets/images/artwork/thumbs -format jpg
