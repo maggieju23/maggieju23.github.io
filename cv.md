@@ -7,4 +7,4 @@ navItemTitle: Contact
 
 ## EDUCATION
 
-- 2017 B.A. in Applied Math and Computer Science, University of California, Berkeley 
+- Junior in Albany High School, California
